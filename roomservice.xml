@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="device/samsung/exynos9820-common" remote="github" name="SealsPlayground/android_device_samsung_exynos9820-common" revision="lineage-20" />
-  <project path="device/samsung/d2x" remote="github" name="SealsPlayground/android_device_samsung_d2x" revision="lineage-20" />
-  <project path="device/samsung/d2s" remote="github" name="SealsPlayground/android_device_samsung_d2s" revision="lineage-20" />
-  <project path="device/samsung/d1" remote="github" name="SealsPlayground/android_device_samsung_d1" revision="lineage-20" />
-  <project path="device/samsung/beyond2lte" remote="github" name="SealsPlayground/android_device_samsung_beyond2lte" revision="lineage-20" />
-  <project path="device/samsung/beyond1lte" remote="github" name="SealsPlayground/android_device_samsung_beyond1lte" revision="lineage-20" />
-  <project path="device/samsung/beyond0lte" remote="github" name="SealsPlayground/android_device_samsung_beyond0lte" revision="lineage-20" />
-  <project path="device/samsung/beyondx" remote="github" name="SealsPlayground/android_device_samsung_beyondx" revision="lineage-20" />
+  <project path="device/samsung/d2x" remote="github" name="LineageOS/android_device_samsung_d2x" revision="lineage-20" />
+  <project path="device/samsung/d2s" remote="github" name="LineageOS/android_device_samsung_d2s" revision="lineage-20" />
+  <project path="device/samsung/d1" remote="github" name="LineageOS/android_device_samsung_d1" revision="lineage-20" />
+  <project path="device/samsung/beyond2lte" remote="github" name="LineageOS/android_device_samsung_beyond2lte" revision="lineage-20" />
+  <project path="device/samsung/beyond1lte" remote="github" name="LineageOS/android_device_samsung_beyond1lte" revision="lineage-20" />
+  <project path="device/samsung/beyond0lte" remote="github" name="LineageOS/android_device_samsung_beyond0lte" revision="lineage-20" />
+  <project path="device/samsung/beyondx" remote="github" name="LineageOS/android_device_samsung_beyondx" revision="lineage-20" />
   <project path="device/samsung_slsi/sepolicy" remote="github" name="LineageOS/android_device_samsung_slsi_sepolicy" revision="lineage-20" />
   <project path="hardware/samsung" remote="github" name="LineageOS/android_hardware_samsung" revision="lineage-20" />
   <project path="kernel/samsung/exynos9820" remote="github" name="SealsPlayground/android_kernel_samsung_exynos9820" revision="lineage-20" />
